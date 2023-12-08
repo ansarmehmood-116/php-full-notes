@@ -14,9 +14,9 @@
     $y=20;
 
     $z=$x+$y;
-    echo "the sume is ".$z;
-    echo "<br>the subtraction is".$y-$x;
-    print("<br> multiplaction is ".$x*$y);
+    echo "<h1>the sume is ".$z."</h1>";
+    echo "<h1><br>the subtraction is ".$y-$x."</h1>";
+    print("<h1><br> multiplaction is ".$x*$y."</h1>");
 
 
     // ---------------------------------------------------------------
