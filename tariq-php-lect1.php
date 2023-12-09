@@ -5,11 +5,12 @@
     // echo $i;      //  output 0 to 9
     // echo "$i";      //  output 0 to 9
     // echo '$i';      //  output 10 times i
-    }
 
+    }
+                           iam abdullah nawaz and iam commititng something foro practice just
     // ---------------------------------------------------------------
 
-
+  
     $x=10;
     $y=20;
 
